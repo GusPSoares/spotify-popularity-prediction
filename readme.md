@@ -6,6 +6,14 @@ Este projeto tem como objetivo investigar os fatores que influenciam a popularid
 
 ## 📂 Estrutura do Projeto
 
+```
+spotify-popularity-prediction/
+|-- data/            # Dados crus e processados
+|-- notebooks/       # Notebooks organizados por etapa
+|-- src/            # Scripts Python para funções reutilizáveis
+|-- reports/        # Gráficos e resultados finais
+|-- requirements.txt # Dependências do projeto
+```
 ---
 
 ## 🚀 Etapas do Projeto
@@ -35,5 +43,5 @@ Este projeto tem como objetivo investigar os fatores que influenciam a popularid
 ---
 
 ## 💡 Autor
-Projeto desenvolvido por [Seu Nome] como parte do portfólio de Ciência de Dados.
+Projeto desenvolvido por Gustavo Pimentel como parte do portfólio de Ciência de Dados.
 
