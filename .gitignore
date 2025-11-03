@@ -1,0 +1,49 @@
+# ======================
+# Arquivos e pastas de dados
+# ======================
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.parquet
+
+# ======================
+# Checkpoints e cache
+# ======================
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+*.log
+
+# ======================
+# Configurações locais
+# ======================
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ======================
+# Ambientes virtuais
+# ======================
+venv/
+env/
+.venv/
+ENV/
+
+# ======================
+# Arquivos temporários
+# ======================
+*.tmp
+*.bak
+*.swp
+
+# ======================
+# Sistema operacional
+# ======================
+desktop.ini
